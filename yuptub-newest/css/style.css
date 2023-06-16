@@ -1,0 +1,86 @@
+*, *::before, *::after {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+main {
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(33, 29, 29);
+}
+
+.main {
+  display: flex;
+  flex-direction: row-reverse; /* Gewijzigd naar row-reverse */
+  align-items: stretch; /* Optioneel, afhankelijk van je lay-outvereisten */
+  height: 100vh;
+  width: 100%;
+  background-color: rgb(33, 29, 29);
+  gap: 27rem;
+}
+
+header {
+  background-color: rgb(32, 7, 84);
+  height: 14rem;
+  width: 100%;
+}
+
+.title__text {
+  display: flex;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  padding-top: 3rem;
+  color: white;
+  font-size: 5rem;
+  font-family: sans-serif;
+  gap: 1.3rem;
+}
+
+.title__text:hover {
+  transition: 0.3s;
+  color: purple;
+}
+
+.aside__side {
+  display: flex;
+  justify-content: flex-end;
+  background-color: purple;
+  height: 100vh;
+  width: 22rem;
+  overflow: scroll;
+  scroll-behavior: smooth;
+}
+
+.video__style {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 22rem;
+  width: 22.5rem;
+  padding: 1.8rem;
+  border-radius: 10%;
+}
+
+.main__video {
+  margin-top: 5rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  width: 80rem;
+  height: 50rem;
+}
+
+.action__bar {
+  background-color: green;
+  height: 20rem;
+  width: 10rem;
+}
+
+/*# sourceMappingURL=style.css.map */
