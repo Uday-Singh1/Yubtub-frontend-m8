@@ -19,4 +19,4 @@ De stijl qua thema is Twitch (https://twitch.tv)
 
 
 
-                                <img width="388" alt="responsive-yubtub-pic" src="https://github.com/Uday-Singh1/Yubtub-frontend-m8/assets/91188742/67445931-2f2a-42dc-85ed-6928e74a323b">
+   <img width="388" alt="responsive-yubtub-pic" src="https://github.com/Uday-Singh1/Yubtub-frontend-m8/assets/91188742/67445931-2f2a-42dc-85ed-6928e74a323b">
