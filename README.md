@@ -1,4 +1,4 @@
-# Yubtub-frontend-m8
+# Yubtub (twitch style)
 
 De eindopdracht is het nabouwen van Yubtub volgens het design, het thema is "Twitch". De aside die we klassikaal hebben gemaakt hoeft maar 1 video te bevatten, zoals afgesproken in de les.
  
