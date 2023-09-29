@@ -1,0 +1,8 @@
+@use "./abstracts/colors";
+@use "./abstracts/mixins";
+@use "./abstracts/reset";
+@use "./abstracts/mediaqueries";
+@use "./abstracts/base.scss";
+
+@use "./components/aside.scss";
+@use "./components/video.scss";
