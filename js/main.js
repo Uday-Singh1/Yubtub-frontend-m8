@@ -23,7 +23,7 @@ class App {
   data;
   constructor() {
     this.api = new API();
-    this.api.getData("data/data.json").then((data) => {
+    this.api.getData("/data/data.json").then((data) => {
       this.data = data;
       this.switcher = new Switcher(this, data);
       
