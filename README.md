@@ -1,5 +1,7 @@
 # Yubtub (twitch style)
 
+*Live: https://uday-singh1.github.io/Yubtub-frontend-m8/*
+
 De eindopdracht is het nabouwen van Yubtub volgens het design, het thema is "Twitch". De aside die we klassikaal hebben gemaakt hoeft maar 1 video te bevatten, zoals afgesproken in de les.
  
 
